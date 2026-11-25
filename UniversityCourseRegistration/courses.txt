@@ -1,0 +1,5 @@
+WP2002|Web Programming 2|3|30
+OOP2002|Object Oriented Programming 2|3|25
+DS004|Data Structures|3|20
+LA001|Linear Algebra|3|35
+BC004|Busan Culture|2|30
